@@ -1,0 +1,6 @@
+[Unit]
+Description=Backup SD card
+
+[Service]
+ExecStart=/home/kstrnisa/backup/backup.sh -f /mnt/storage/backup -n odroid_xu4 -s /dev/mmcblk0
+
