@@ -1,6 +1,6 @@
 # odroid-xu-backup
 
-Script for backing up the SD card.
+The purpose of this was to make backups of the SD card on my Odroid XU4 development board but the script is general enough to be used whenever one wants to make weekly/monthly rotating backups of a file/folder.
 
 
 ## backup
