@@ -31,8 +31,8 @@
 # Then it looks for all existing weekly backups that are older than
 # the retention age for weekly backups and makes those weekly backups
 # the monthly backup for the month they belong to. This means just changing
-# the filename to the appropriate monthly backup filename. Thus that maonthly 
-# backup for a particular month ends up being the last weekly bacup 
+# the filename to the appropriate monthly backup filename. Thus that monthly 
+# backup for a particular month ends up being the last weekly backup 
 # made in that month.
 #
 # This behaviour makes the script "safe" to run at practically any period
